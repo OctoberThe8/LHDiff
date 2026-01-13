@@ -1,0 +1,7 @@
+# OLD
+if value is None:
+    print("error")
+
+# NEW
+if value is None:
+    return

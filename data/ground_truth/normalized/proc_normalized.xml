@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST10" FILE="proc.c">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="313" NEW="-1" />
+   <LOCATION ORIG="314" NEW="313" />
+   <LOCATION ORIG="315" NEW="314" />
+   <LOCATION ORIG="316" NEW="315" />
+   
+</VERSION>
+
+ <VERSION NUMBER="2" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="313" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="314" />
+   <LOCATION ORIG="314" NEW="315" />
+   <LOCATION ORIG="-1" NEW="316" />
+   <LOCATION ORIG="-1" NEW="317" />
+   <LOCATION ORIG="315" NEW="-1" />
+   <LOCATION ORIG="316" NEW="318" />
+   
+</VERSION>
+</TEST>

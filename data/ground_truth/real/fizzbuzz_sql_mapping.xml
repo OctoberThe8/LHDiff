@@ -1,0 +1,29 @@
+<TEST NAME="TEST20" FILE="fizzbuzz_sql_mapping.sql">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="1" />
+   <LOCATION ORIG="2" NEW="2" /> 
+   <LOCATION ORIG="3" NEW="3" /> 
+   <LOCATION ORIG="4" NEW="4" /> 
+   <LOCATION ORIG="5" NEW="5" />  
+   
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="8" NEW="11" />
+   <LOCATION ORIG="10" NEW="14" />
+   <LOCATION ORIG="11" NEW="15" />
+   <LOCATION ORIG="12" NEW="16" />
+   <LOCATION ORIG="13" NEW="17" />
+   <LOCATION ORIG="14" NEW="18" />
+   <LOCATION ORIG="15" NEW="19" />
+   <LOCATION ORIG="16" NEW="20" />
+   
+
+  
+
+</VERSION>
+</TEST>

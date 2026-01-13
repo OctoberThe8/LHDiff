@@ -1,0 +1,46 @@
+<TEST NAME="sample1">
+        <VERSION NAME="insert">
+        <LOCATION ORIG="6" NEW="6"/>
+        <LOCATION ORIG="7" NEW="8"/>
+        <LOCATION ORIG="-1" NEW="7"/> <!-- insert -->
+        <LOCATION ORIG="8" NEW="9"/>
+     </VERSION>
+
+     <VERSION NAME="delete">
+        <LOCATION ORIG="5" NEW="5"/>
+        <LOCATION ORIG="6" NEW="-1"/>    <!-- deleted -->
+        <LOCATION ORIG="7" NEW="6"/>
+     </VERSION>
+
+    <VERSION NAME="modify">
+        <LOCATION ORIG="5" NEW="5"/>
+        <LOCATION ORIG="6" NEW="-1"/>
+        <LOCATION ORIG="-1" NEW="6"/>
+        <LOCATION ORIG="7" NEW="7"/>
+     </VERSION>
+
+    <VERSION NAME="rename">
+        <LOCATION ORIG="6" NEW="6"/>    <!-- first instance of rename -->
+        <LOCATION ORIG="10" NEW="10"/>    <!-- second instance of rename -->
+    </VERSION>
+
+    <VERSION NAME="move">
+        <LOCATION ORIG="6" NEW="6"/>
+        <LOCATION ORIG="7" NEW="8"/>
+        <LOCATION ORIG="8" NEW="7"/>
+        <LOCATION ORIG="9" NEW="9"/>
+    </VERSION>
+
+    <VERSION NAME="split">
+        <LOCATION ORIG="6" NEW="6"/>
+        <LOCATION ORIG="7" NEW="7, 8"/>
+        <LOCATION ORIG="8" NEW="9"/>
+    </VERSION>
+
+    <VERSION NAME="merge">
+        <LOCATION ORIG="6" NEW="6"/>
+        <LOCATION ORIG="7" NEW="7"/>
+        <LOCATION ORIG="8" NEW="7"/>
+        <LOCATION ORIG="9" NEW="8"/>
+    </VERSION>
+</TEST>

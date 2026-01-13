@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST5" FILE="jsonMapping.java">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="-1" NEW="3" />
+   <LOCATION ORIG="-1" NEW="5" />
+   <LOCATION ORIG="3" NEW="7" />
+   <LOCATION ORIG="4" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="8" />
+   <LOCATION ORIG="6" NEW="9" />
+   <LOCATION ORIG="7" NEW="10" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="10" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+	 
+</VERSION>
+
+ <VERSION NUMBER="2" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="2" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="4" />
+   <LOCATION ORIG="-1" NEW="5" />
+   <LOCATION ORIG="-1" NEW="6" />
+   <LOCATION ORIG="-1" NEW="7" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="3" NEW="10" />
+   <LOCATION ORIG="4" NEW="10" />
+   <LOCATION ORIG="-1" NEW="10" />
+   <LOCATION ORIG="6" NEW="-1" />
+   <LOCATION ORIG="7" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="10" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   
+</VERSION>
+</TEST>

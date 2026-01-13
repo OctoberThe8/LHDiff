@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST21" FILE="loo_cross_validation.py">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="2" NEW="2" /> 
+   <LOCATION ORIG="5" NEW="5" />
+   
+ 
+	 
+</VERSION>
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+    <LOCATION ORIG="7" NEW="7" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+  
+
+</VERSION>
+
+</TEST>

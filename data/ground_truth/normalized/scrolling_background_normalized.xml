@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST18" FILE="scrolling_background.py">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="1" />
+   <LOCATION ORIG="2" NEW="2" /> 
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="5" />
+   <LOCATION ORIG="10" NEW="10" />
+   
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="-1" NEW="6" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="14" NEW="-1" />
+   <LOCATION ORIG="15" NEW="-1" />
+   <LOCATION ORIG="17" NEW="15" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+  
+
+</VERSION>
+</TEST>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST2" FILE="localStorage.js">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="-1" />
+   <LOCATION ORIG="2" NEW="-1" />
+   <LOCATION ORIG="3" NEW="1" />
+   <LOCATION ORIG="4" NEW="-1" />
+   <LOCATION ORIG="5" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="2" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="9" NEW="-1" />
+   <LOCATION ORIG="10" NEW="-1" />
+   
+</VERSION>
+
+ <VERSION NUMBER="2" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="-1" />
+   <LOCATION ORIG="2" NEW="-1" />
+   <LOCATION ORIG="3" NEW="-1" />
+   <LOCATION ORIG="4" NEW="-1" />
+   <LOCATION ORIG="5" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="9" NEW="-1" />
+   <LOCATION ORIG="10" NEW="-1" />
+   
+</VERSION>
+</TEST>

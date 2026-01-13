@@ -1,0 +1,11 @@
+import random
+def roll_dice():
+    """Simulates rolling two six-sided dice and prints the result."""
+    die1 = random.randint(1, 6)
+    die2 = random.randint(1, 6)            #before deleted line
+    print(f"Rolling the dice...")          #after deleted line
+    print(f"Die 1 rolled: {die1}")
+    print(f"Die 2 rolled: {die2}")
+    print(f"Total sum: {total}")
+if __name__ == "__main__":
+    roll_dice()

@@ -1,0 +1,32 @@
+<TEST NAME="TEST16" FILE="is_permulation.py">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="4" NEW="4" />
+   <LOCATION ORIG="5" NEW="5" /> 
+   <LOCATION ORIG="6" NEW="6" />
+   <LOCATION ORIG="7" NEW="7" />
+ 
+  
+	 
+</VERSION>
+
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+    <LOCATION ORIG="-1" NEW="9" />
+   <LOCATION ORIG="9" NEW="11" />
+   <LOCATION ORIG="10" NEW="12" />
+   <LOCATION ORIG="12" NEW="14" />
+   <LOCATION ORIG="13" NEW="15" />
+   <LOCATION ORIG="14" NEW="16" />
+   <LOCATION ORIG="16" NEW="18" />
+   <LOCATION ORIG="26" NEW="28" />
+   <LOCATION ORIG="29" NEW="31" />
+   <LOCATION ORIG="30" NEW="32" />
+   <LOCATION ORIG="32" NEW="-1" />
+   <LOCATION ORIG="23" NEW="-1" />
+  
+
+</VERSION>
+</TEST>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST19" FILE="SmartCardReader.cs">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="1" />
+   <LOCATION ORIG="2" NEW="-1" /> 
+   <LOCATION ORIG="3" NEW="2" /> 
+   <LOCATION ORIG="5" NEW="4" /> 
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="-1" NEW="3" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="4" NEW="5" />
+   <LOCATION ORIG="6" NEW="7" />
+   <LOCATION ORIG="9" NEW="-1" />
+   <LOCATION ORIG="38" NEW="16" />
+   <LOCATION ORIG="41" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="19" />
+  
+   
+
+  
+
+</VERSION>
+</TEST>

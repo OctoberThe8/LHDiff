@@ -1,0 +1,27 @@
+<TEST NAME="TEST14" FILE="SchoolNullPointerDemo.java">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="5" NEW="5" /> 
+   <LOCATION ORIG="9" NEW="9" />
+   <LOCATION ORIG="10" NEW="10" />
+   <LOCATION ORIG="11" NEW="11" />
+   <LOCATION ORIG="14" NEW="14" />
+   <LOCATION ORIG="16" NEW="16" />
+   <LOCATION ORIG="17" NEW="17" />
+  
+	 
+</VERSION>
+
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="-1" NEW="20" />
+   <LOCATION ORIG="19" NEW="21" />
+   <LOCATION ORIG="21" NEW="24" />
+   <LOCATION ORIG="25" NEW="28" />
+   <LOCATION ORIG="26" NEW="31" />
+  
+
+</VERSION>
+</TEST>

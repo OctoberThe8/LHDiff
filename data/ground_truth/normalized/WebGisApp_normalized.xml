@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEST NAME="TEST22" FILE="WebGisApp.java">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="1" NEW="1" />
+   <LOCATION ORIG="4" NEW="4" /> 
+   <LOCATION ORIG="5" NEW="5" />
+   <LOCATION ORIG="-1" NEW="-1" />
+   <LOCATION ORIG="8" NEW="8" />
+   <LOCATION ORIG="9" NEW="9" />
+   <LOCATION ORIG="10" NEW="10" />
+   <LOCATION ORIG="12" NEW="12" />
+   
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="13" NEW="16" />
+   <LOCATION ORIG="14" NEW="17" />
+   <LOCATION ORIG="16" NEW="19" />
+   <LOCATION ORIG="17" NEW="20" />
+   <LOCATION ORIG="18" NEW="21" />
+   <LOCATION ORIG="19" NEW="22" />
+   <LOCATION ORIG="20" NEW="23" />
+   <LOCATION ORIG="12" NEW="24" />
+   <LOCATION ORIG="-1" NEW="25" />
+   <LOCATION ORIG="-1" NEW="26" />
+   
+
+  
+
+</VERSION>
+</TEST>

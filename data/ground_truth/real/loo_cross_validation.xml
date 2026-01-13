@@ -1,0 +1,30 @@
+<TEST NAME="TEST15" FILE="loo_cross_validation.py">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="5" NEW="5" />
+   <LOCATION ORIG="6" NEW="6" /> 
+   <LOCATION ORIG="7" NEW="7" />
+   <LOCATION ORIG="9" NEW="9" />
+   <LOCATION ORIG="10" NEW="10" />
+   <LOCATION ORIG="11" NEW="11" />
+   <LOCATION ORIG="14" NEW="14" />
+   <LOCATION ORIG="15" NEW="15" />
+   
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="-1" NEW="16" />
+   <LOCATION ORIG="16" NEW="17" />
+   <LOCATION ORIG="18" NEW="19" />
+   <LOCATION ORIG="22" NEW="-1" />
+   <LOCATION ORIG="23" NEW="-1" />
+   <LOCATION ORIG="24" NEW="-1" />
+   <LOCATION ORIG="25" NEW="-1" />
+   <LOCATION ORIG="26" NEW="-1" />
+  
+
+</VERSION>
+</TEST>

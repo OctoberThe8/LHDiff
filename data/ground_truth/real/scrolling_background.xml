@@ -1,0 +1,28 @@
+<TEST NAME="TEST18" FILE="scrolling_background.py">
+
+ <VERSION NUMBER="1" CHECKED="TRUE">
+ 
+   <LOCATION ORIG="5" NEW="5" />
+   <LOCATION ORIG="6" NEW="6" /> 
+   <LOCATION ORIG="7" NEW="7" />
+   <LOCATION ORIG="9" NEW="9" />
+   <LOCATION ORIG="11" NEW="11" />
+   <LOCATION ORIG="20" NEW="20" />
+   
+	 
+</VERSION>
+
+<VERSION NUMBER="2" CHECKED="TRUE">	 
+ 
+   <LOCATION ORIG="13" NEW="12" />
+   <LOCATION ORIG="18" NEW="17" />
+   <LOCATION ORIG="24" NEW="-1" />
+   <LOCATION ORIG="25" NEW="-1" />
+   <LOCATION ORIG="28" NEW="26" />
+   <LOCATION ORIG="26" NEW="-1" />
+   <LOCATION ORIG="-1" NEW="27" />
+   <LOCATION ORIG="32" NEW="34" />
+  
+
+</VERSION>
+</TEST>
